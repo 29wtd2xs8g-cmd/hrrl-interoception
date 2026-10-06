@@ -1,0 +1,4 @@
+torch>=2.5
+numpy>=2.0
+matplotlib>=3.8
+joblib>=1.4

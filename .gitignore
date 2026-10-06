@@ -1,0 +1,12 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Résultats (régénérables avec run_*.py / le notebook)
+results/
+*.npz
+
+# macOS
+.DS_Store
